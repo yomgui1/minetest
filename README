@@ -1,0 +1,15 @@
+This program is a 3D game that mimic the style of Minecraft(TM) game.
+Please read COPYING file for coyright/legal/licenses information.
+
+This program requires following dependencies installed on the running system:
+
+- Python >= 2.7 (not 3.x) : http://www.python.org
+- pygame : http://pygame.org/
+- NBT v1.4.1 : https://pypi.python.org/pypi/NBT
+- PyOpenGL : http://pyopengl.sourceforge.net/
+
+MorphOS platform notes:
+
+On MorphOS you also required to install following dependencies :
+
+- PyTGL (ony for running on MorphOS) : https://bitbucket.org/yomgui/pytgl
